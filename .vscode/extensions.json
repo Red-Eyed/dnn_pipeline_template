@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "alefragnani.project-manager",
+        "ms-toolsai.datawrangler",
+        "ms-python.python",
+        "charliermarsh.ruff"
+    ]
+}
